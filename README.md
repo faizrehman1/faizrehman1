@@ -35,6 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizrehman1&show_icons=true&locale=en" alt="faizrehman1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizrehman1&" alt="faizrehman1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizrehman1&layout=compact&theme=vision-friendly-dark" alt="faizrehman1" /></p>
 
 Copyright @ 2023 Faiz Rehman
