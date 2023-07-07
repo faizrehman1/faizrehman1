@@ -37,5 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizrehman1&" alt="faizrehman1" /></p>
 
-Copyright @ 2022 Vishnu Sivan
-Buy Me A Coffee
+Copyright @ 2023 Faiz Rehman
