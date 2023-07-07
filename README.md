@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo4
-Fork on GitHub0
+
 <h1 align="center">Hi 👋, I'm Faiz Ur Rehman Khan</h1>
 <h3 align="center">A passionate Mobile Application developer from Pakistan</h3>
 
