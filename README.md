@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **faizdk101@gmail.com**
 
-- 📄 Know about my experiences [https://about.me/faiz.k](https://about.me/faiz.k)
+- 📄 Know about my experiences [https://about.me/faiz.k]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
