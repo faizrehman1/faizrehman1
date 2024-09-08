@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@faizdk101" target="blank"><img src="https://img.shields.io/twitter/follow/@faizdk101?logo=twitter&style=for-the-badge" alt="@faizdk101" /></a> </p>
 
-- 🔭 I’m currently working on [Tellocast](https://www.tellocast.com/)
+- 🔭 I’m currently working on [Ashur International Bank](https://infinity.ashurbank.com/apps/onlinebanking/#/AuthenticationMA/frmLogin)
 
 - 🌱 I’m currently learning **Flutter Development and Machine Learning**
 
